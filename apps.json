@@ -1,0 +1,22 @@
+{
+    "name": "Creative",
+    "identifier": "com.gct.devcreativeserver",
+    "sourceURL": "https://myappsource.example.com/apps.json",
+    "apps": [
+        {
+            "name": "GCT Facebook",
+            "bundleIdentifier": "com.Facebook.gct",
+            "developerName": "Creative",
+            "version": "1.7.1",
+            "versionDate": "13/06/2024 10:00",
+            "versionDescription": "Added new features and fixed bugs",
+            "downloadURL": "https://www.dropbox.com/scl/fi/xbksdyw434bm3yho6dysa/GOD-Facebook-414.0.ipa?rlkey=rty71pfg9bgv0hex1hyo9bmm0&st=yuhzlqir&dl=0",
+            "localizedDescription": "On Beta",
+            "iconURL": "https://myappsource.example.com/images/myapp_icon.png",
+            "tintColor": "FF5733",
+            "isLanZouCloud": 0,
+            "size": 12345678,
+            "type": 1
+        }
+    ]
+}
